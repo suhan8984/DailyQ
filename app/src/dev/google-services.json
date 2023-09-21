@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433516468712",
+    "project_id": "dailyq-dev",
+    "storage_bucket": "dailyq-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433516468712:android:6f360f8b0c7916ba3b2c5d",
+        "android_client_info": {
+          "package_name": "online.dailyq.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX6LKZglmZhJL_aMMsc2zl_UjnkI1fOU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
